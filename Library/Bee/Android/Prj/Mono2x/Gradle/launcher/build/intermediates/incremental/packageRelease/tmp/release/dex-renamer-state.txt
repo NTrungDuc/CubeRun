@@ -1,0 +1,4 @@
+#Thu Jun 01 13:41:53 ICT 2023
+base.0=D\:\\CodeGame\\CubeRun\\CubeRun\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
